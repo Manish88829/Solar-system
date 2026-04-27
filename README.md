@@ -38,7 +38,8 @@ Solar-system/
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5544149a-165a-44ff-a3f5-b7aead8f4250" width="800"/>
+ <img width="1870" height="878" alt="image" src="https://github.com/user-attachments/assets/bdb5f729-87b4-4d42-8c4f-9d950d1d00f0" />
+
 </p>
 
 ---
